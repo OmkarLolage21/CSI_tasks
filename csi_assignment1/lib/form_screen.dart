@@ -42,7 +42,7 @@ class _FormscreenState extends State<Formscreen> {
                         ),
                       ),
                       TyperAnimatedText(
-                        'This is Assignment-1',
+                        'This is Assignment-1 by Omkar Lolage',
                         textStyle: TextStyle(
                           fontSize: 30,
                           fontWeight: FontWeight.bold,
